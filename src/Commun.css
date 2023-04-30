@@ -1,0 +1,133 @@
+.img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.img-logo {
+    width: 200px;
+    margin: 2rem;
+}
+.imgback {
+    top: 0;
+    left: 0;
+    width: 100vw; 
+    height: auto;
+}
+h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 4rem;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+}
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.li-desc {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#p {
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+#graph-div {
+    position: absolute;
+    top: 120%;
+    left: 0;
+    width: 100vw;
+    height: auto;
+}
+.animated-text {
+    width: 90vw;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}
+#about-div {
+    position: absolute;
+    top: 18%;
+    width: 100vw;
+    height: auto;
+    background-color: white;
+}
+.about-div-section {
+    position: relative;
+    margin-left: 130px;
+    width: 80vw;
+    height: auto;
+    border: 1px solid #fff;
+    background-color: #23abd1;
+    color: white;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 25px;
+}
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: auto;
+    background-color: rgba(255, 166, 0, 0);
+    color: white;
+    text-align: center;
+}
+.footer {
+    position: absolute;
+    bottom: -11100px;
+    left: 0;
+    width: 100vw;
+    height: 20vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#graph-container {
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100vw;
+    height: auto;
+}
+.titre {
+    text-align: center;
+    color: white;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.description {
+    width: 90vw;
+    margin-left: 60px;
+    text-align: justify;
+    color: white;
+    font-size: 1.7rem;
+}
+.filter-div {
+    width: 100vw;
+    height: auto;
+    text-align: center;
+    color: #fff;
+    font-size: 1.5rem;
+}
+hr {
+    width: 80%;
+    color: white;
+    border-color: 1px solid white;
+}
+.about-desc {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
